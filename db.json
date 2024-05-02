@@ -35,5 +35,42 @@
       "vendedor": "Luis de la Fuente"
 
     }
+  ],
+  "cartItems": [
+    {
+      "id": 1,
+      "name": "Gafas de Esqui de Alto Rendimiento",
+      "price": 70,
+      "lessor": "Juan Alberto",
+      "logo": "https://tse2.mm.bing.net/th?id=OIP.lV4xVjEEqLcWwzIridOHAAHaHa&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 2,
+      "name": "Traje de la Pantera Rosa",
+      "price": 100,
+      "lessor": "Maria Ostrinez",
+      "logo": "https://disfracescamilita.com/wp-content/uploads/2022/10/pantera-rosa.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Conjunto vestimenta de marinera norteña",
+      "price": 100,
+      "lessor": "Rene Magrid",
+      "logo": "https://i.ytimg.com/vi/-QvXNjYeKpU/maxresdefault.jpg"
+    }
+  ],
+  "deliveryCompany": [
+    {
+      "id": 1,
+      "name": "Entrega Fastpido"
+    },
+    {
+      "id": 2,
+      "name": "Fastugo"
+    },
+    {
+      "id": 3,
+      "name": "Entreganator"
+    }
   ]
 }
