@@ -97,7 +97,64 @@
         "description": "Este conjunto de vestimenta de marinera norteña incluye una falda, una blusa y un pañuelo. Está confeccionado con telas de alta calidad y una atención meticulosa a los detalles.",
         "price": 100,
         "rating": "4,5"
+      },
+      {
+        "id": "4",
+        "image": "https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-front/blob/feature/AdrianoSebastianCruzPalomino/src/assets/product-3.png?raw=true",
+        "title": "",
+        "description": "",
+        "price": ,
+        "rating": ""
+      },
+      {
+        "id": "5",
+        "image": "https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-front/blob/feature/AdrianoSebastianCruzPalomino/src/assets/product-3.png?raw=true",
+        "title": "",
+        "description": "",
+        "price": ,
+        "rating": ""
+      },
+      {
+        "id": "6",
+        "image": "https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-front/blob/feature/AdrianoSebastianCruzPalomino/src/assets/product-3.png?raw=true",
+        "title": "",
+        "description": "",
+        "price": ,
+        "rating": ""
+      },
+      {
+        "id": "7",
+        "image": "https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-front/blob/feature/AdrianoSebastianCruzPalomino/src/assets/product-3.png?raw=true",
+        "title": "",
+        "description": "",
+        "price": ,
+        "rating": ""
       }
+      {
+        "id": "8",
+        "image": "https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-front/blob/feature/AdrianoSebastianCruzPalomino/src/assets/product-3.png?raw=true",
+        "title": "",
+        "description": "",
+        "price": ,
+        "rating": ""
+      },
+      {
+        "id": "9",
+        "image": "https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-front/blob/feature/AdrianoSebastianCruzPalomino/src/assets/product-3.png?raw=true",
+        "title": "",
+        "description": "",
+        "price": ,
+        "rating": ""
+      },
+      {
+        "id": "10",
+        "image": "https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-front/blob/feature/AdrianoSebastianCruzPalomino/src/assets/product-3.png?raw=true",
+        "title": "",
+        "description": "",
+        "price": ,
+        "rating": ""
+      }
+  
     ],
   "purchases": [
     {
